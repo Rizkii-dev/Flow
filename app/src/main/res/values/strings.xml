@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">FLOW</string>
+    <string name="title_name">Flow</string>
+    <string name="title_name2">Fonic Learning\nOutstanding and Worthy</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="selamat_datang">Selamat datang!</string>
+    <string name="pilih_menu_yang_kamu_inginkan">Pilih menu yang kamu inginkan!</string>
+    <string name="penghapusan_bunyi">Penghapusan bunyi</string>
+    <string name="pencampuran_bunyi">Pencampuran bunyi</string>
+    <string name="segmentasi">Segmentasi</string>
+    <string name="morfem">Morfem</string>
+    <string name="fonem">Fonem</string>
+    <string name="bunyi_huruf">Bunyi Huruf</string>
+    <string name="bunyi_suku_kata">Bunyi Suku Kata</string>
+    <string name="bunyi_kata">Bunyi Kata</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="pilih_soal_nomor_nkeberapa_yang_kamu_nmau_pilih">Pilih Soal Nomor\nkeberapa yang kamu\nmau pilih</string>
+    <string name="ikan">IKAN</string>
+    <string name="ikan_merah"><font fgcolor='#FFFF0000'>I</font>KAN</string>
+    <string name="udang">UDANG</string>
+    <string name="udang_merah"><font fgcolor='#FFFF0000'>U</font>DANG</string>
+    <string name="api">API</string>
+    <string name="api_merah"><font fgcolor='#FFFF0000'>A</font>PI</string>
+    <string name="piring">PIRING</string>
+    <string name="piring_merah"><font fgcolor='#FFFF0000'>PI</font>RING</string>
+    <string name="balon">BALON</string>
+    <string name="balon_merah"><font fgcolor='#FFFF0000'>BA</font>LON</string>
+    <string name="topi">TOPI</string>
+    <string name="topi_merah"><font fgcolor='#FFFF0000'>TO</font>PI</string>
+    <string name="meja_makan">MEJA MAKAN</string>
+    <string name="meja_makan_merah"><font fgcolor='#FFFF0000'>MEJA</font> MAKAN</string>
+    <string name="kursi_roda">KURSI RODA</string>
+    <string name="kursi_roda_merah"><font fgcolor='#FFFF0000'>KURSI</font> RODA</string>
+    <string name="apel">A-PEL</string>
+    <string name="apel_merah"><font fgcolor='#FFFF0000'>A</font>-PEL</string>
+    <string name="elang">E-LANG</string>
+    <string name="elang_merah"><font fgcolor='#FFFF0000'>E</font>-LANG</string>
+    <string name="obat">O-BAT</string>
+    <string name="obat_merah"><font fgcolor='#FFFF0000'>O</font>-BAT</string>
+    <string name="ember">EM-BER</string>
+    <string name="ember_merah"><font fgcolor='#FFFF0000'>EM</font>-BER</string>
+    <string name="buku">BU-KU</string>
+    <string name="buku_merah"><font fgcolor='#FFFF0000'>BU</font>-KU</string>
+    <string name="pena">PE-NA</string>
+    <string name="pena_merah"><font fgcolor='#FFFF0000'>PE</font>-NA</string>
+    <string name="sikat">SIKAT</string>
+    <string name="gigi">GIGI</string>
+    <string name="lemari">LEMARI</string>
+    <string name="baju">BAJU</string>
+    <string name="kaos">KAOS</string>
+    <string name="kaki">KAKI</string>
+    <string name="jus">J-U-S</string>
+    <string name="ubi">U-B-I</string>
+    <string name="ibu">I-B-U</string>
+    <string name="air">A-I-R</string>
+    <string name="lem">L-E-M</string>
+    <string name="daun">DA-UN</string>
+    <string name="bunga">BU-NGA</string>
+    <string name="sepeda">SE-PE-DA</string>
+    <string name="matahari">MA-TA-HA-RI</string>
+    <string name="alumunius">A-LU-MU-NI-UM</string>
+</resources>
