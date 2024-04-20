@@ -1,28 +1,33 @@
-## Flow: Privacy policy
+## Flow: Privacy Policy
 Welcome to the Flow app for Android!
 
-It is a simple offline education app for those who are not literate.
+Flow is a simple offline education app designed for those who are not literate.
 
-As an avid Android user myself, I take privacy very seriously.
-I know how frustrating it is when apps collect your data without your knowledge.
+At Flow, we prioritize your privacy and understand the importance of safeguarding your personal information. We are committed to transparency and ensuring that your data is protected.
 
-### Data collected by the app
+## Data Collection
+We want to assure you that Flow does not collect any personally identifiable information. Any data generated within the app, such as preferences (like theme settings) and alarms, is stored locally on your device. You have full control over this data and can easily delete it by clearing the app's data or uninstalling the app. We do not employ any analytics software in our app.
 
-I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information. All data (app preferences (like theme) and alarms) created by the you (the user) is stored locally in your device only, and can be simply erased by clearing the app's data or uninstalling it. No analytics software is present in the app either.
+## Children's Privacy
+Flow is not directed at individuals under the age of 13, and we do not knowingly collect any personal information from children through our application.
 
+## Security
+We take the security of our app seriously. If you discover any security vulnerabilities or have questions about how Flow protects your privacy, please don't hesitate to reach out to us. You can contact us via email or post a discussion on GitHub, and we will promptly address your concerns.
 
-### Children's privacy
+## Contact Information
+If you have any questions, feedback, or concerns regarding our privacy practices, please feel free to contact us:
 
-Our application does not address any one under the age of 13.
+Muhammad Rizki Pratama
 
-We do not collect any personal information from children through application
+Sumedang, Indonesia
 
+Email: m.rizkip.developer@gmail.com
 
-<hr style="border:1px solid gray">
+Your privacy is important to us, and we are committed to maintaining the trust you place in Flow.
 
-If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email or post a discussion on GitHub, and I will surely try to fix it/help you.
+ <hr style="border:1px solid gray">
+ 
+Thank you for using Flow!
 
-Yours sincerely,  
-Muhammad Rizki Pratama.  
-Sumedang, Indonesia.  
-m.rizkip.developer@gmail.com
+Sincerely,
+Muhammad Rizki Pratama
