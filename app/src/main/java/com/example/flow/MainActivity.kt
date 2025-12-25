@@ -9,7 +9,7 @@ import com.example.flow.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
-    private  lateinit var bin ding: ActivityMainBinding
+    private  lateinit var binding: ActivityMainBinding
     private  lateinit var mediaPlayer: MediaPlayer
 
     override fun onCreate(savedInstanceState: Bundle?) {
